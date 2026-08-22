@@ -1,0 +1,5 @@
+google-adk
+google-cloud-bigquery
+pandas
+google-cloud-aiplatform[agent_engines,adk]
+db-dtypes
